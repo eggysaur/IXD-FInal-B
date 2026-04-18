@@ -6,7 +6,7 @@ import { ZipperHero } from "@/components/zipper-hero"
 export default function Home() {
   return (
     <main className="min-h-screen">
-      <ZipperHero videoSrc="/hero.mp4" />
+      <ZipperHero videoSrc="/hero.webm" />
 
       {/* Camera / AI thesis — before About */}
       <section className="border-t border-neutral-800 bg-neutral-950 px-6 py-20 md:px-12 md:py-28 lg:px-24">
